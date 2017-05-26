@@ -33,6 +33,8 @@ Src to load file :https://gist.github.com/noonat/1131091
 But in the above objloader.py we have function defined for mtl 
 so we need mtl file also here to run.
 I will be posting how to load and display .obj file without .mtl file.
+Alternative: If you want to display any .obj file and you don't have the .mtl file with it,no worry use the cube.mtl file because it is only used to give texture and color so we can associate it with any .obj file.How to proceed download the .obj file and see cibe.obj file and use the commands from cube.obj and add mtl file codes to our .obj file ,now we are ready to go
+rename the .mtl file with name of obj file loaded and run it.
 :) Happy Reading
 
 
